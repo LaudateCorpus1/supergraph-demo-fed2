@@ -9,7 +9,7 @@
   "dependencies": {
     "@apollo/federation": "2.0.0-alpha.1",
     "apollo-server": "3.6.2",
-    "supergraph-demo-opentelemetry": "0.0.3",
+    "supergraph-demo-opentelemetry": "0.2.4",
     "graphql": "15.8.0"
   },
   "keywords": [],
